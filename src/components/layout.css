@@ -1,0 +1,40 @@
+.card{
+    background-color:gray;
+    height: 500px;
+    width: 650px;
+    align-items: center;
+    margin: auto;
+    border-radius: 10px;
+    background-image: url("/src/images/img.jpg");
+
+}
+
+
+.card1{
+    background-color: white ;
+    height: 450px;
+    width: 350px;
+   margin: auto;
+   
+   border-radius: 15px;
+   background-image: url(/src/images/img-02.jpg);
+   background-position: left bottom;
+
+
+}
+input[type="submit"]{
+ background-color: rgb(46, 120, 144);
+color: papayawhip;
+ border-radius: 10px;
+ height: 35px;
+ padding: 5px;
+ 
+}
+input[type="text"]{
+ border-radius: 10px;
+ padding: 5px;
+}
+
+
+
+
